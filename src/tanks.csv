@@ -1,0 +1,110 @@
+Engine;traverse;MaxSpeed;name;power;view_range;HP;damage;rof;hull_front;radio_range;turret_back;penetration;full_name;tier;hull_back;turret_sides;type;hull_sides;turret_front
+43 h.p.;38;32 km/h;MS-1;70;270;90 HP;30;30;18;300;16;32;Light Tank MS-1;1;16;16;Light Tank;16;18
+400 h.p.;40;55 km/h;BT-2;450;270;140 HP;30;30;13;340;13;32;Light Tank BT-2;2;13;13;Light Tank;13;15
+90 h.p.;55;36 km/h;T-26;90;270;150 HP;36;30;15;340;15;34;Light Tank T-26;2;15;15;Light Tank;15;15
+450 h.p.;47;66 km/h;BT-7;500;270;180 HP;47;30;20;700;15;51;Light Tank BT-7;3;13;15;Light Tank;15;20
+300 h.p.;55;58 km/h;T-46;350;270;210 HP;47;30;15;410;15;51;Light Tank T-46;3;15;15;Light Tank;15;15
+480 h.p.;44;72 km/h;A-20;500;380;290 HP;47;30;20;700;25;51;Light Tank A-20;4;16;37;Light Tank;20;37
+400 h.p.;40;45 km/h;T-28;500;370;320 HP;105;15;30;410;20;37;Medium Tank T-28;4;20;20;Medium Tank;20;20
+480 h.p.;40;56 km/h;T-34;500;400;400 HP;110;11.36;45;600;45;68;Medium Tank T-34;5;40;45;Medium Tank;45;60
+500 h.p.;40;54 km/h;T-34-85;520;400;660 HP;115;15;45;600;52;109;Medium Tank T-34-85;6;45;75;Medium Tank;45;90
+520 h.p.;40;51 km/h;T-43;560;400;1000 HP;450;6;75;600;62;61;Medium Tank T-43;7;60;62;Medium Tank;60;90
+560 h.p.;45;51 km/h;T-44;620;430;1190 HP;160;13.64;90;830;75;120;Medium Tank T-44;8;45;90;Medium Tank;75;120
+620 h.p.;48;56 km/h;T-54;680;450;1570 HP;230;8.57;120;830;65;175;Medium Tank T-54;9;45;160;Medium Tank;80;200
+500 h.p.;20;34 km/h;KV;560;350;560 HP;110;16;75;500;75;86;Heavy Tank KV;5;65;75;Heavy Tank;75;95
+500 h.p.;28;43 km/h;KV-1S;600;360;650 HP;110;16;75;500;75;86;Heavy Tank KV-1S;6;60;75;Heavy Tank;60;82
+560 h.p.;20;32 km/h;KV-3;600;380;840 HP;160;13.33;120;500;90;120;Heavy Tank KV-3;6;75;130;Heavy Tank;90;130
+600 h.p.;35;34 km/h;IS;700;380;1130 HP;160;14.12;120;700;90;120;Heavy Tank IS;7;60;90;Heavy Tank;90;100
+650 h.p.;30;36 km/h;IS-3;700;380;1310 HP;230;8.5;110;830;110;175;Heavy Tank IS-3;8;60;110;Heavy Tank;90;220
+650 h.p.;27;35 km/h;IS-4;700;400;1590 HP;230;8.5;160;830;170;175;Heavy Tank IS-4;9;100;200;Heavy Tank;160;250
+1050 h.p.;28;50 km/h;IS-7;1050;460;2200 HP;490;5;150;820;94;260;Heavy Tank IS-7;10;60;210;Heavy Tank;150;210
+43 h.p.;22;20 km/h;SU-18;70;16;140 HP;164;9.68;18;400;16;42;SPG SU-18;2;16;16;SPG;18
+90 h.p.;22;30 km/h;SU-26;90;15;150 HP;164;9.84;15;700;15;42;SPG SU-26;3;15;15;SPG;15
+90 h.p.;30;30 km/h;SU-5;90;13;260 HP;164;11.49;15;700;13;42;SPG SU-5;4;15;15;SPG;15
+440 h.p.;21;33 km/h;SU-8;500;18;360 HP;465;5.5;20;700;18;65;SPG SU-8;5;20;20;SPG;20
+500 h.p.;19;32 km/h;S-51;600;60;410 HP;950;2.6;60;700;60;88;SPG S-51;6;60;60;SPG;60
+500 h.p.;12;31 km/h;SU-14;600;20;550 HP;950;3;50;700;20;88;SPG SU-14;6;30;30;SPG;50
+580 h.p.;16;32 km/h;Object 212;600;45;650 HP;950;3.16;60;700;45;88;SPG Object 212;7;45;45;SPG;60
+90 h.p.;39;30 km/h;AT-1;90;10;130 HP;47;33.33;15;340;10;51;Tank Destroyer AT-1;2;15;15;Tank Destroyer;15
+80 h.p.;40;48 km/h;SU-76;80;15;150 HP;75;26.67;30;600;15;75;Tank Destroyer SU-76;3;15;15;Tank Destroyer;30
+140 h.p.;40;43 km/h;SU-85B;210;15;260 HP;110;18.75;30;600;15;78;Tank Destroyer SU-85B;4;15;15;Tank Destroyer;30
+480 h.p.;35;55 km/h;SU-85;500;40;350 HP;115;16.67;45;600;40;109;Tank Destroyer SU-85;5;45;45;Tank Destroyer;45
+500 h.p.;36;50 km/h;SU-100;520;45;600 HP;160;15.46;75;600;45;120;Tank Destroyer SU-100;6;45;45;Tank Destroyer;75
+500 h.p.;23;43 km/h;SU-152;600;60;870 HP;700;3.87;75;700;60;135;Tank Destroyer SU-152;7;60;60;Tank Destroyer;75
+600 h.p.;21;43 km/h;ISU-152;700;60;1010 HP;700;4;90;700;60;135;Tank Destroyer ISU-152;8;75;75;Tank Destroyer;90
+650 h.p.;22;43 km/h;Object 704;700;60;1350 HP;700;4;120;830;60;135;Tank Destroyer Object 704;9;90;90;Tank Destroyer;120
+268 h.p.;40;61 km/h;M3 Stuart;268;320;200 HP;40;27.27;38;370;25;48;Premium Tank M3 Stuart;3;25;25;Premium Tank;25;38
+140 h.p.;50;32 km/h;Valentine;140;400;340 HP;47;30;60;650;65;51;Premium Tank Valentine;11;60;65;Premium Tank;60;65
+540 h.p.;40;70 km/h;A-32;540;360;360 HP;105;15;35;500;35;66;Premium Tank A-32;11;16;35;Premium Tank;30;35
+374 h.p.;20;28 km/h;Churchill;374;400;700 HP;75;30;101;650;76;110;Premium Tank Churchill;11;64;76;Premium Tank;76;88
+650 h.p.;20;33 km/h;KV-220;650;350;690 HP;110;16;120;410;75;86;Premium Tank KV-220;11;75;90;Premium Tank;90;95
+274 h.p.;35;25 km/h;Matilda;274;400;520 HP;110;18.46;75;650;75;86;Premium Tank Matilda;11;55;75;Premium Tank;70;75
+51 h.p.;38;36 km/h;Leichttraktor;85;320;110 HP;32;30;14;300;14;34;Light Tank Leichttraktor;1;12;14;Light Tank;12;14
+120 h.p.;43;35 km/h;PzKpfw 35 (t);220;320;150 HP;40;30;25;600;16;34;Light Tank PzKpfw 35 (t);2;16;16;Light Tank;16;35
+130 h.p.;40;40 km/h;PzKpfw II;160;330;135 HP;11;125;30;520;20;23;Light Tank PzKpfw II;2;15;20;Light Tank;20;30
+120 h.p.;35;42 km/h;PzKpfw 38 (t);200;350;200 HP;40;30;25;600;15;41;Light Tank PzKpfw 38 (t);3;15;15;Light Tank;15;25
+140 h.p.;38;60 km/h;PzKpfw II Luchs;360;380;180 HP;32;30;30;520;25;34;Light Tank PzKpfw II Luchs;3;20;25;Light Tank;20;30
+320 h.p.;44;68 km/h;PzKpfw III Ausf. A;440;360;180 HP;32;30;15;520;30;34;Light Tank PzKpfw III Ausf. A;3;15;30;Light Tank;15;30
+350 h.p.;33;68 km/h;VK 1602 Leopard;585;400;390 HP;32;30;50;800;30;34;Light Tank VK 1602 Leopard;4;20;30;Light Tank;30;50
+320 h.p.;45;64 km/h;PzKpfw III;440;360;310 HP;32;30;70;810;30;34;Medium Tank PzKpfw III;4;50;30;Medium Tank;30;70
+350 h.p.;36;43 km/h;PzKpfw III/IV;585;360;350 HP;110;16;80;810;30;98;Medium Tank PzKpfw III/IV;5;30;45;Medium Tank;60;65
+320 h.p.;34;48 km/h;PzKpfw IV;440;380;390 HP;70;27.27;80;810;30;67;Medium Tank PzKpfw IV;5;20;30;Medium Tank;30;50
+585 h.p.;40;55 km/h;VK 3001 (H);650;400;670 HP;110;16;50;810;30;98;Medium Tank VK 3001 (H);6;50;30;Medium Tank;30;50
+420 h.p.;30;60 km/h;VK 3001 (P);670;400;610 HP;110;16;75;810;60;106;Medium Tank VK 3001 (P);6;40;60;Medium Tank;60;80
+610 h.p.;27;40 km/h;VK 3601 (H);750;420;760 HP;110;16;100;810;80;106;Medium Tank VK 3601 (H);6;80;80;Medium Tank;60;110
+650 h.p.;40;56 km/h;VK 3002 (DB);750;400;1180 HP;110;12;80;810;45;106;Medium Tank VK 3002 (DB);7;40;45;Medium Tank;45;80
+610 h.p.;29;48 km/h;PzKpfw V Panther;870;460;1350 HP;350;8.57;80;810;60;64;Medium Tank PzKpfw V Panther;8;40;60;Medium Tank;50;120
+750 h.p.;30;55 km/h;Panther II;980;460;1650 HP;135;15.38;100;810;60;138;Medium Tank Panther II;9;40;60;Medium Tank;60;150
+610 h.p.;24;30 km/h;PzKpfw VI Tiger;870;400;1350 HP;350;8.57;100;810;82;64;Heavy Tank PzKpfw VI Tiger;7;80;82;Heavy Tank;80;82
+650 h.p.;26;28 km/h;PzKpfw VIB Tiger II;870;460;1400 HP;220;8.96;150;810;80;203;Heavy Tank PzKpfw VIB Tiger II;8;80;80;Heavy Tank;80;180
+600 h.p.;20;30 km/h;VK 4502 (P) Ausf. B;840;460;1850 HP;220;8.96;170;810;160;203;Heavy Tank VK 4502 (P) Ausf. B;9;100;160;Heavy Tank;100;252
+1750 h.p.;15;20 km/h;Maus;1750;460;3200 HP;470;4.62;200;820;210;246;Heavy Tank Maus;10;160;210;Heavy Tank;185;220
+65 h.p.;18;40 km/h;Sturmpanzer I Bison;85;14;130 HP;200;5;13;350;14;75;SPG Sturmpanzer I Bison;2;10;10;SPG;13
+130 h.p.;22;40 km/h;Sturmpanzer II;160;15;160 HP;200;6.15;30;520;15;75;SPG Sturmpanzer II;3;20;20;SPG;30
+130 h.p.;24;40 km/h;Wespe;160;15;160 HP;410;4.29;30;520;15;53;SPG Wespe;3;15;15;SPG;30
+100 h.p.;22;35 km/h;Grille;200;10;260 HP;200;6;15;810;10;75;SPG Grille;4;15;15;SPG;15
+350 h.p.;32;40 km/h;Hummel;585;10;360 HP;680;4;30;810;10;75;SPG Hummel;5;10;10;SPG;30
+330 h.p.;28;48 km/h;GW Panther;460;20;470 HP;950;3.53;50;810;20;85;SPG GW Panther;6;30;30;SPG;50
+610 h.p.;14;35 km/h;GW Tiger;750;50;610 HP;1100;2.73;50;810;50;88;SPG GW Tiger;7;16;16;SPG;50
+85 h.p.;36;40 km/h;Panzerjäger I;85;13;120 HP;40;30;13;350;13;41;Tank Destroyer Panzerjäger I;2;13;13;Tank Destroyer;13
+130 h.p.;40;40 km/h;Marder II;160;15;170 HP;70;30;30;350;15;67;Tank Destroyer Marder II;3;15;15;Tank Destroyer;30
+100 h.p.;34;42 km/h;Hetzer;165;20;270 HP;110;17.75;60;700;20;98;Tank Destroyer Hetzer;4;20;20;Tank Destroyer;60
+320 h.p.;44;40 km/h;StuG III;440;30;350 HP;110;18.18;50;470;30;98;Tank Destroyer StuG III;5;30;30;Tank Destroyer;50
+320 h.p.;35;38 km/h;JagdPz IV;440;20;600 HP;350;9.52;80;470;20;64;Tank Destroyer JagdPz IV;6;40;40;Tank Destroyer;80
+610 h.p.;32;46 km/h;Jagdpanther;750;40;850 HP;135;17.54;80;810;40;138;Tank Destroyer Jagdpanther;7;50;50;Tank Destroyer;80
+600 h.p.;21;30 km/h;Ferdinand;840;85;1200 HP;220;11.58;200;810;85;203;Tank Destroyer Ferdinand;8;85;85;Tank Destroyer;200
+650 h.p.;21;28 km/h;Jagdtiger;870;80;1600 HP;470;5.79;250;810;80;246;Tank Destroyer Jagdtiger;9;80;80;Tank Destroyer;250
+75 h.p.;40;37 km/h;PzKpfw 38H735 (f);75;380;160 HP;40;30;34;600;40;41;Premium Tank PzKpfw 38H735 (f);11;34;40;Premium Tank;34;45
+340 h.p.;45;30 km/h;PzKpfw B2 740(f);340;380;400 HP;52;31.58;60;600;46;55;Premium Tank PzKpfw B2 740(f);11;55;46;Premium Tank;60;56
+220 h.p.;40;37 km/h;PzKpfw S35 739 (f);220;380;300 HP;52;31.58;36;600;46;55;Premium Tank PzKpfw S35 739 (f);11;25;46;Premium Tank;35;56
+650 h.p.;29;52 km/h;PzKpfw V-IV;650;360;830 HP;110;16;80;470;30;106;Premium Tank PzKpfw V-IV;11;40;30;Premium Tank;50;80
+650 h.p.;29;52 km/h;PzKpfw V-IV Alpha;650;360;830 HP;110;16;80;470;30;106;Premium Tank PzKpfw V-IV Alpha;11;40;30;Premium Tank;50;80
+110 h.p.;38;41 km/h;T1 Cunningham;132;270;110 HP;30;30;10;300;10;32;Light Tank T1 Cunningham;1;10;10;Light Tank;10;10
+220 h.p.;40;58 km/h;M2 Light Tank;262;360;140 HP;12;125;25;700;25;30;Light Tank M2 Light Tank;2;25;25;Light Tank;25;25
+245 h.p.;45;61 km/h;M3 Stuart;350;380;200 HP;12;125;38;700;32;30;Light Tank M3 Stuart;3;25;32;Light Tank;25;38
+320 h.p.;45;58 km/h;M5 Stuart;350;300;290 HP;12;125;29;700;32;30;Light Tank M5 Stuart;4;25;32;Light Tank;15;44
+330 h.p.;40;40 km/h;T2 Medium Tank;340;360;150 HP;30;31.58;22;700;25;34;Medium Tank T2 Medium Tank;2;22;25;Medium Tank;22;25
+340 h.p.;40;43 km/h;M2 Medium Tank;400;420;180 HP;40;27.27;32;700;25;48;Medium Tank M2 Medium Tank;3;13;25;Medium Tank;18;38
+400 h.p.;43;38 km/h;M3 Lee;440;360;310 HP;110;18.99;50;700;51;90;Medium Tank M3 Lee;4;38;51;Medium Tank;38;51
+350 h.p.;37;48 km/h;M4 Sherman;440;380;400 HP;110;18.02;51;700;51;92;Medium Tank M4 Sherman;5;38;51;Medium Tank;38;76
+350 h.p.;48;60 km/h;M7;440;420;380 HP;40;30;38;850;38;56;Medium Tank M7;5;25;38;Medium Tank;32;64
+380 h.p.;40;48 km/h;M4A3E8 Sherman;520;420;720 HP;110;18.02;63;700;51;92;Medium Tank M4A3E8 Sherman;6;38;51;Medium Tank;38;76
+520 h.p.;37;56 km/h;T20;560;400;1000 HP;410;8.57;63;700;63;53;Medium Tank T20;7;38;63;Medium Tank;50;88
+560 h.p.;40;56 km/h;T23;704;430;1310 HP;410;8.57;76;850;63;53;Medium Tank T23;8;38;63;Medium Tank;50;89
+560 h.p.;40;48 km/h;M26 Pershing;790;480;1600 HP;410;8.57;102;850;76;53;Medium Tank M26 Pershing;9;51;76;Medium Tank;76;114
+700 h.p.;25;35.4 km/h;T1 Heavy;960;360;600 HP;110;16;83;550;83;101;Heavy Tank T1 Heavy;5;41;83;Heavy Tank;44;102
+825 h.p.;25;35 km/h;M6;960;400;840 HP;110;16;102;550;83;101;Heavy Tank M6;6;41;83;Heavy Tank;44;102
+720 h.p.;25;35 km/h;T29;800;380;1150 HP;115;19.11;102;850;102;128;Heavy Tank T29;7;51;127;Heavy Tank;76;279
+720 h.p.;25;35 km/h;T32;800;460;1400 HP;240;9.01;127;850;152;170;Heavy Tank T32;8;51;197;Heavy Tank;76;298
+800 h.p.;28;35 km/h;T34;860;420;1700 HP;240;9.01;102;850;203;170;Heavy Tank T34;9;51;127;Heavy Tank;76;279
+860 h.p.;28;35 km/h;T30;860;460;2250 HP;750;3.64;102;850;102;276;Heavy Tank T30;10;51;127;Heavy Tank;76;279
+245 h.p.;20;40 km/h;T57;350;25;140 HP;170;9.45;29;700;25;42;SPG T57;2;25;25;SPG;29
+240 h.p.;20;56 km/h;M37;320;13;160 HP;410;4.3;13;700;13;53;SPG M37;3;13;13;SPG;13
+350 h.p.;20;38.6 km/h;M7 Priest;440;12;270 HP;410;5.1;12;850;12;53;SPG M7 Priest;4;12;12;SPG;12
+240 h.p.;21;56 km/h;M41;320;13;360 HP;700;4;13;850;13;78;SPG M41;5;13;13;SPG;13
+400 h.p.;20;39 km/h;M12;440;19;400 HP;950;3.6;51;850;19;85;SPG M12;6;16;16;SPG;51
+350 h.p.;22;39 km/h;M40/M43;440;12;580 HP;950;3.85;50;850;12;88;SPG M40/M43;7;25;25;SPG;50
+265 h.p.;47;72 km/h;T2 Light Tank;265;300;150 HP;12;125;17;370;16;30;Premium Tank T2 Light Tank;11;6;16;Premium Tank;15;16
+520 h.p.;37;38 km/h;Ram-II;520;380;610 HP;75;30;76;650;51;110;Premium Tank Ram-II;11;38;76;Premium Tank;63;76
+720 h.p.;20;34 km/h;T-14;720;380;690 HP;110;18.02;51;520;101;92;Premium Tank T-14;11;50;101;Premium Tank;50;101
+
